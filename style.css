@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(Startbild.jpg) no-repeat center center fixed #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+
+.app-main {
+    opacity: 8;
+    max-width: 500px;
+    background-color: darkolivegreen;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-top: 300px;
+    height: 250px;
+}
+
+#input-box {
+    width: 95%;
+    background-color: gray;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.weather-body {
+    margin-bottom: 15px;
+    background-color: darkgray;
+    border-radius: 5px;
+    height: 75px;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.city {
+    font-weight: bold;
+}
+
+
+
